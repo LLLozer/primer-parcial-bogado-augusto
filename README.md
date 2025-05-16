@@ -1,0 +1,1 @@
+Profesor, los cambios que hice en los archivos los realicé antes de leer que el repositorio de github se creaba para luego desarrollar el parcial en la rama develop, si no está algo commiteado ahí es por eso. Sepa disculpar
